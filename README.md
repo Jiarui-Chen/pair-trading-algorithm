@@ -38,6 +38,9 @@ There are two additional folders in the code file:
 * Others: the folder that contains the Jupiter notebook files that are used for preliminary testing. These codes are not included in the actual implementation of the algorithm and should not be used as a reference.
 * Data: this folder that contains the sample stock price data. On QuantConnect, the algorithms will directly use data provided by the platform with specific codes, and therefore no data is required for running the code. 
 
+## Additional Details
+For additional details on the project, please refer to the "Project Report.pdf" file included in the repo. 
+
 
 
 
